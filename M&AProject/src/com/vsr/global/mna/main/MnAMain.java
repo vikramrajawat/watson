@@ -1,8 +1,8 @@
-package com.company.global.mna.main;
+package com.vsr.global.mna.main;
 
-import com.company.global.mna.rel.extract.AlchemyLangEntityService;
-import com.company.global.mna.rel.extract.DocumentConversionService;
 import com.ibm.watson.developer_cloud.alchemy.v1.model.Entities;
+import com.vsr.global.mna.rel.extract.AlchemyLangEntityService;
+import com.vsr.global.mna.rel.extract.DocumentConversionService;
 
 public class MnAMain {
 
