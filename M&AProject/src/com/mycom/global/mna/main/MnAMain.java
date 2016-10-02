@@ -1,8 +1,8 @@
-package com.hsbc.global.mna.main;
+package com.mycom.global.mna.main;
 
-import com.hsbc.global.mna.rel.extract.AlchemyLangEntityService;
-import com.hsbc.global.mna.rel.extract.DocumentConversionService;
 import com.ibm.watson.developer_cloud.alchemy.v1.model.Entities;
+import com.mycom.global.mna.rel.extract.AlchemyLangEntityService;
+import com.mycom.global.mna.rel.extract.DocumentConversionService;
 
 public class MnAMain {
 

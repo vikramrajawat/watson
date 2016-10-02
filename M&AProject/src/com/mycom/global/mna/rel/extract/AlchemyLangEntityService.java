@@ -1,4 +1,4 @@
-package com.hsbc.global.mna.rel.extract;
+package com.mycom.global.mna.rel.extract;
 
 import java.util.HashMap;
 import java.util.Map;
