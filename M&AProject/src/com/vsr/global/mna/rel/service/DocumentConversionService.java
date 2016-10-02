@@ -1,4 +1,4 @@
-package com.vsr.global.mna.rel.extract;
+package com.vsr.global.mna.rel.service;
 
 import java.io.File;
 

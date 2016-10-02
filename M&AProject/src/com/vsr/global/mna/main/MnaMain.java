@@ -9,8 +9,8 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 import com.ibm.watson.developer_cloud.alchemy.v1.model.Entities;
-import com.vsr.global.mna.rel.extract.AlchemyLangEntityService;
-import com.vsr.global.mna.rel.extract.DocumentConversionService;
+import com.vsr.global.mna.rel.service.AlchemyLangEntityService;
+import com.vsr.global.mna.rel.service.DocumentConversionService;
 import com.vsr.global.mna.utility.MnaUtility;
 
 public class MnaMain {
