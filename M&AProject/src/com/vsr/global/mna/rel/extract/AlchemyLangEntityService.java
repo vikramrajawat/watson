@@ -19,7 +19,7 @@ public class AlchemyLangEntityService {
 	public Entities getRelExtractResult(String inputText){
 		
 		AlchemyLanguage service = new AlchemyLanguage();
-		service.setApiKey("0f1ec9c0e016bf1a0a1c1241b7f2167a504e93fb");
+		service.setApiKey("625f2673f130f48620166f603af5323e67045b35");
 
 		Map<String, Object> params = new HashMap<String, Object>();
 		params.put(AlchemyLanguage.TEXT, inputText);

@@ -15,7 +15,7 @@ public class DocumentConversionService {
 	public String getDocAsTxt(String filePath){
 		
 		DocumentConversion service = new DocumentConversion("2015-12-01");
-		service.setUsernameAndPassword("fd684fcf-12a2-4de8-ab17-865df1d08855", "aiNl8NgIV3vG");
+		service.setUsernameAndPassword("caba2d1d-90de-4307-8208-291bb2e506e8", "vu6lWMYHP1Eh");
 		File doc = new File(filePath);
 //		Answers htmlToAnswers = service.convertDocumentToAnswer(doc).execute();
 		return service.convertDocumentToText(doc).execute();
